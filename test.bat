@@ -1,0 +1,1 @@
+node jso tests\1.js -o tests\1.ob.js
